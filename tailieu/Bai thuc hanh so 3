@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Bai thuc hanh so 3</title>
+    </head>
+    <body>
+        <h1><font color="blue">Tour du lịch Lào 5N4Đ Vientiane-Luang Prabang [Hàng tuần-K/S 5 SAO]</font></h1>
+        <h4><strong>Giá: 12.990.000</strong></h4>
+        <ul>
+            <li>Khám phá thủ dô Viêng Chăn, cố đô Luang Prabang</li>
+            <li>Thác Kuang Si-Thác nước đẹp bật nhất xứ Lào</li>
+        </ul>
+        <ol type ="1" start="1">
+            <li>Động Nang Pha (Động cô Tiên), nơi thạch nhủ hình thành từ hàng triệu năm trước, mang hình dáng như cô Tiên rất ấn tượng. Quý khách có thể tự do khám phá hang động hoặc chơi zipline khám phá rừng núi Thượng Lào (Chi phí chưa bao gồm).</li>
+            <li>Tự do vui chơi, hoặc tham gia các hoạt động như: chèo thuyền Cayak dọc sông Son, tắm suối, trải nghiệm cảnh đẹp rừng núi thượng LÀo bằn khinh khí cầu, Motorsky...(Chi phí chưa bao gồm).</li>
+            <li>Trải nghiệm và thực hành nghi lễ thả đèn trời mang ý nghĩa cầu bình an và may mắn.</li>
+        </ol>
+        <ul>
+            <li>Lưu trú khashc sạn 3, 4, 5 Sao</li>
+            <li>Trải nghiệm và thực hành nghi lễ thả đèn trời</li>
+            <li>Tặng Bia Lào</li>
+            <li>Khời hành: Theo lịch trình</li>
+            <li>Thời gian: 5 ngày 4 đêm</li>
+        </ul>
+        <h1><font color="orange"><u>MÔ TẢ</u></font></h1>
+        <i>Du lịch Okela gửi đến Quý khách hành trình Tour du lịch Lào 5N4Đ Bay thẳng: TP Hồ Chí Minh-Vientiane-Luang Prabang-Văng Viêng</i>
+        <p>Quý khách có thể xem thêm trên link sao: <font color="purple"><u>dulichokela</u></font></p>
+        <h3>ĐÁNH GIÁ</h3>
+        <table border="1" cellspacing="0">
+            <tr>
+                <td>Tiêu chí</td>
+                <td>Nội dung đánh giá</td>
+                <td>Điểm thành phần</td>
+                <td>Tổng điểm</td>
+            </tr>
+            <tr height="80">
+                <td border="1" rowspan="3">Quá trình</td>
+                <td 
+            </tr>
+        </table>
+    </body>
+</html>
